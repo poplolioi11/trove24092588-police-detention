@@ -1,0 +1,116 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 4,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "◎瘋佬被拘　華人蘇關勝。年五十一歲。香山深灣人也。向",
+      "after": "◎癲佬被拘　華人蘇關勝。年五十一歲。香山深灣人也。向",
+      "reason": "本字疒內俱見真、頁密筆，無風字外框；依第二讀改。",
+      "source_bbox": [
+        358,
+        1142,
+        960,
+        1999
+      ],
+      "source_image_sha256": "47a6ee1d611c53f88542dabfd48b4dc32ffd0ddff09340924a0cc69ad6896103",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24092588"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "在卡蟀呢厘罷撻埠操樹工。昨星期日來抵雪梨。寓於安益利號",
+      "after": "在卡鱲呢厘罷搕埠操樹工。昨星期日來抵雪梨。寓於安益利號",
+      "reason": "回圖第二字魚部與巤下緣較合，第六見扌及皿形；仍標音譯疑讀。",
+      "source_bbox": [
+        358,
+        1142,
+        960,
+        1999
+      ],
+      "source_image_sha256": "47a6ee1d611c53f88542dabfd48b4dc32ffd0ddff09340924a0cc69ad6896103",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24092588"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "。十七日星期一早六時許。忽發瘋狂。持手槍亂打各客。有一",
+      "after": "。十七日星期一早六時許。忽發癲狂。持手槍亂打各客。有一",
+      "reason": "同首欄癲字的真、頁輪廓，依回圖改。",
+      "source_bbox": [
+        358,
+        1142,
+        960,
+        1999
+      ],
+      "source_image_sha256": "47a6ee1d611c53f88542dabfd48b4dc32ffd0ddff09340924a0cc69ad6896103",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24092588"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 10,
+      "kind": "main",
+      "op": "replace",
+      "before": "過。瘋人又持斧頭鐵器及架生什物。向人亂拋。勢兇可畏。嗣有",
+      "after": "過。癲人又持斧頭鐵器及架生什物。向人亂拋。勢兇可畏。嗣有",
+      "reason": "同首欄癲字字形，依回圖改。",
+      "source_bbox": [
+        358,
+        1142,
+        960,
+        1999
+      ],
+      "source_image_sha256": "47a6ee1d611c53f88542dabfd48b4dc32ffd0ddff09340924a0cc69ad6896103",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24092588"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 4,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24092588",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 7,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24092588",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24092588",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 5,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24092588",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 7,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24092588",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": []
+}

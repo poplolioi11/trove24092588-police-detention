@@ -4,11 +4,11 @@
 
 Dian lao bei ju [Police Detention Following a Reported Mental Health Crisis] appeared in Tung Wah Times (1913-02-22). Sydney local news reports a Chinese worker described by the newspaper as experiencing mental distress, the medical treatment of injured persons, and his detention by the police pending a hearing.
 
-## V0.1.0
+## V0.2.0
 
-完整收錄第7版此篇原題與正文 12 個原欄，全文格式為 TXT、JSON 與 TEI XML。此版固定 AI 輔助初錄，標明未定讀法。尚未經人類全文雙校。
+完整收錄第7版此篇原題與正文 12 個原欄，全文格式為 TXT、JSON 與 TEI XML。比對獨立原圖讀法後回圖裁定，採用 4 筆訂正，留存疑讀定位。
 
-TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 12 source columns on page 7. This edition preserves the first AI-assisted transcription and marks uncertainties. It has not been double proofread by human readers.
+TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 12 source columns on page 7. An independent image reading was compared with the first transcription. Source-image adjudication adopted 4 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 
