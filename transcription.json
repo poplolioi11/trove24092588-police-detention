@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "work_key": "trove24092588",
+    "title": "癲佬被拘",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah Times, 1913-02-22, p. 7, NLA news-page24092588",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "癲佬被拘（《東華報》1913-02-22 第7版，澳洲國家圖書館） / Dian lao bei ju [Police Detention Following a Reported Mental Health Crisis]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "◎瘋佬被拘　華人蘇關勝。年五十一歲。香山深灣人也。向"
+            },
+            {
+              "text": "在卡蟀呢厘罷撻埠操樹工。昨星期日來抵雪梨。寓於安益利號"
+            },
+            {
+              "text": "。十七日星期一早六時許。忽發瘋狂。持手槍亂打各客。有一"
+            },
+            {
+              "text": "客名陳牛。被碼向手臂擦過。又一碼向耳邊穿過。又一客李官"
+            },
+            {
+              "text": "朝。被碼子轟穿兩手臂。又一碼向肚皮擦傷。鮮血淋漓。初恐有"
+            },
+            {
+              "text": "性命之虞。及車入醫院調治。幸未傷腸。可醫全愈。其時炮响五"
+            },
+            {
+              "text": "聲。有店伴李曠。尚在睡房。以爲關勝之槍。碼子出盡。欲奪其"
+            },
+            {
+              "text": "槍。免傷多人。詎料他再入碼子。迎面轟來。幸不中傷。遂奮勇"
+            },
+            {
+              "text": "向前。奪其手槍。觸動槍機。被碼向手指擦傷。又一碼向身邊擦"
+            },
+            {
+              "text": "過。瘋人又持斧頭鐵器及架生什物。向人亂拋。勢兇可畏。嗣有"
+            },
+            {
+              "text": "巡警五六名。前來設法拘獲。鎖往二號巡警局監禁。聽候訊"
+            },
+            {
+              "text": "辦。巡警擒拿關勝時。亦被斧傷頭顱。幸無大碍云。"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 2,
+          "context": "卡蟀呢厘罷撻埠",
+          "candidates": [
+            "卡蟀呢厘罷撻埠",
+            "卡蠔呢厘罷撻埠"
+          ],
+          "note": "前段為地名音譯，第二及第六字墨筆密、未能判實。"
+        },
+        {
+          "side": "single",
+          "column": 4,
+          "context": "李官",
+          "candidates": [
+            "李官",
+            "李宮"
+          ],
+          "note": "此欄末起人名，下欄首接朝；官、宮形似。"
+        },
+        {
+          "side": "single",
+          "column": 7,
+          "context": "李曠",
+          "candidates": [
+            "李曠",
+            "李曦"
+          ],
+          "note": "人名後字右半筆畫過密。"
+        }
+      ],
+      "observations": "第七版《本洲新聞》中段左側，標題由雙圈起，最後一欄初與下一文連排。上下細橫線完整，該則前後各自刊題。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24092588",
+      "catalogue_page": 7,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24092588/level5",
+      "sha256": "47a6ee1d611c53f88542dabfd48b4dc32ffd0ddff09340924a0cc69ad6896103",
+      "label": "1913-02-22 第7版",
+      "dimensions": [
+        2974,
+        3929
+      ],
+      "article_extent": [
+        358,
+        1142,
+        960,
+        1999
+      ],
+      "article_regions": [
+        [
+          358,
+          1142,
+          960,
+          1999
+        ]
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}
